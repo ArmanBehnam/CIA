@@ -1,7 +1,7 @@
 # Causal Invariant Abstractions: A Measure-Theoretic Framework for OOD Generalization in Anti-Causal Domain
 
 <p align="center">
-<img src="./images/logo.svg" width="300">
+<img src="./images/logo.jpg" width="300">
 </p>
 
 This repository implements a novel causal representation learning framework.
@@ -35,7 +35,7 @@ Our approach introduces a novel measure-theoretic framework for learning in anti
 Causal Dynamics Algorithm, Causal Abstraction Algorithm, OOD Optimization Algorithm.
 
 <p align="center">
-<img src="./images/overview.svg" width="800">
+<img src="./images/overview.jpg" width="800">
 <br>
 <em>Overview of the Method</em>
 </p>
@@ -45,7 +45,7 @@ Causal Dynamics Algorithm, Causal Abstraction Algorithm, OOD Optimization Algori
 ### Dataset
 
 <p align="center">
-<img src="./images/cmnist.svg" width="600">
+<img src="./images/cmnist.png" width="600">
 <br>
 <em>Examples from Colored MNIST datasets</em>
 </p>
@@ -55,7 +55,7 @@ Causal Dynamics Algorithm, Causal Abstraction Algorithm, OOD Optimization Algori
 Our method successfully learns representations that are invariant across environments:
 
 <p align="center">
-<img src="./images/cmnistres.svg" width="600">
+<img src="./images/cmnistres.png" width="600">
 <br>
 <em>The CMNIST Results</em>
 </p>
@@ -71,8 +71,8 @@ Our method successfully learns representations that are invariant across environ
 
 ```bash
 # Clone repository
-git clone https://github.com/username/causal-coloredmnist.git
-cd causal-coloredmnist
+git clone https://github.com/username/CIA.git
+cd CIA
 ```
 
 # Install dependencies
