@@ -1,4 +1,4 @@
-# Causal Invariant Abstractions: A Measure-Theoretic Framework for OOD Generalization in Anti-Causal Domain
+# Anti-Causal Invariant Abstractions: A Measure-Theoretic Framework for OOD Generalization
 
 <p align="center">
 <img src="./images/logo.jpg" width="200">
